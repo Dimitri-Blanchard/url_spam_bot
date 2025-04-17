@@ -1,5 +1,7 @@
 # URL Tab Opener Script
 
+![](https://raw.githubusercontent.com/Dimitri-Blanchard/url_spam_bot/refs/heads/main/images/selenium.png)
+
 ## Description
 
 This Python script uses Selenium to automatically open a specified URL in multiple browser tabs. You can control the number of tabs to open and the delay between each opening.
